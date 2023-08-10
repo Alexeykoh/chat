@@ -30,7 +30,7 @@ function App() {
 			<div className="chat">
 				<ListMessages/>
 				<ChatForm>
-
+					
 				</ChatForm>
 			</div>
 		</>
